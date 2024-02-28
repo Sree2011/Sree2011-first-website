@@ -31,6 +31,7 @@ h4 {
 .names {
 	float: right;
 	font-weight: bold;
+	font-style: italic;
 }
 
 .clg {
@@ -41,6 +42,7 @@ h4 {
 div {
 	padding: 10px;
 }
+
 
 
 /* Make sure that padding behaves as expected */
@@ -93,3 +95,19 @@ div {
 }
 
 /* Dark Grey */
+
+
+
+
+table,
+tr,
+td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 3px;
+
+}
+
+hr {
+	border: 3px solid black;
+}
